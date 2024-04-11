@@ -1,0 +1,46 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+a:link, a:visited {
+    background-color: #6c41c8;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(126, 16, 194);
+  }
+
+  a:link, a:visited {
+    background-color: #6c41c8;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 25px;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(126, 16, 194);
+  }
+
+  
